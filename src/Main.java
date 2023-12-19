@@ -1,6 +1,6 @@
-import at.dichter.DataGenerator;
-import at.dichter.algorithms.BubbleSort;
-import at.dichter.algorithms.IAlgorithm;
+import at.konstantin.DataGenerator;
+import at.konstantin.Algorithms.BubbleSort;
+import at.konstantin.Algorithms.IAlgorithm;
 
 public class Main {
     public static void main(String[] args) {

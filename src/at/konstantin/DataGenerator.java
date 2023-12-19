@@ -1,4 +1,4 @@
-package at.dichter;
+package at.konstantin;
 
 import java.util.Random;
 

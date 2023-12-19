@@ -1,4 +1,4 @@
-package at.dichter.algorithms;
+package at.konstantin.Algorithms;
 
 public class RaduxSort implements IAlgorithm {
     @Override

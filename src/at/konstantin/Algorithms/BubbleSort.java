@@ -1,7 +1,7 @@
-package at.dichter.algorithms;
+package at.konstantin.Algorithms;
 
 public class BubbleSort implements IAlgorithm {
-    @Override
+
     public int[] sort(int[] array) {
         int length = array.length;
         int value = 0;

@@ -1,4 +1,4 @@
-package at.dichter.algorithms;
+package at.konstantin.Algorithms;
 
 public class SelectionSort implements IAlgorithm {
     @Override
